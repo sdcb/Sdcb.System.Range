@@ -5,7 +5,7 @@ This file is almostly copied from following url:
 * https://github.com/dotnet/csharplang/blob/master/proposals/ranges.cs
 * https://csharp.christiannagel.com/2018/07/24/indexesandranges/
 
-Index example:
+## Index example:
 ```
 var last = ^1;
 int[] arr = { 1, 2, 3 };
@@ -16,7 +16,7 @@ int lastItem2 = arr[arr.Length - 1];
 Console.WriteLine(lastItem2); // 3
 ```
 
-Range example:
+## Range example:
 ```
 // Old school: 
 string text1 = "the quick brown fox jumped over the lazy dogs";
@@ -47,3 +47,6 @@ int copiedelement = range[1];
 copiedelement = 11;
 Console.WriteLine($"the original element is changed: {arr[3]}"); // 42
 ```
+## Note: this code requires roslyn version 2.9.0 or later to run: 
+* https://github.com/dotnet/csharplang/wiki/vNext-Preview
+* https://github.com/dotnet/roslyn/releases
