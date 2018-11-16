@@ -1,7 +1,9 @@
 # Sdcb.System.Range
 Provide System.Index, System.Range for C# 8.0.
 
-This file is almostly copied from https://github.com/dotnet/csharplang/blob/master/proposals/ranges.cs
+This file is almostly copied from following url:
+https://github.com/dotnet/csharplang/blob/master/proposals/ranges.cs
+https://csharp.christiannagel.com/2018/07/24/indexesandranges/
 
 Index example:
 ```
