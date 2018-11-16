@@ -1,5 +1,4 @@
-# Sdcb.System.Range
-[![NuGet](https://img.shields.io/badge/nuget-1.02-blue.svg)](https://www.nuget.org/packages/Sdcb.System.Package)
+# Sdcb.System.Range [![NuGet](https://img.shields.io/badge/nuget-1.02-blue.svg)](https://www.nuget.org/packages/Sdcb.System.Package)
 Provide System.Index, System.Range for C# 8.0.
 
 This file is almostly copied from following url:
