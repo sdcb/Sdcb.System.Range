@@ -5,11 +5,14 @@
     <LangVersion>latest</LangVersion>
     <Authors>sdcb</Authors>
     <Description>Provide System.Index, System.Range for C# 8.0.</Description>
-    <AssemblyVersion>1.0.2.0</AssemblyVersion>
-    <FileVersion>1.0.2.0</FileVersion>
+    <AssemblyVersion>1.0.3.0</AssemblyVersion>
+    <FileVersion>1.0.3.0</FileVersion>
     <PackageTags>Index, Range, C#8</PackageTags>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
+    <PackageProjectUrl>https://github.com/sdcb/Sdcb.System.Range/blob/master/Sdcb.System.Range/Range.cs</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sdcb/Sdcb.System.Range/blob/master/Sdcb.System.Range/Range.cs</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
